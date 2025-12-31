@@ -11,8 +11,6 @@ An intelligent finance assistant built using the Google Agent Development Kit (A
 
 ## Architecture
 
-![Agent Architecture](agent_architecture.png)
-
 ```mermaid
 graph TD
     User[User] <--> MainAgent[Finance Assistance Agent]
